@@ -1,0 +1,15 @@
+{
+  "name": "node_data_mconnect",
+  "version": "1.0.0",
+  "description": "keeplog rawdata",
+  "main": "dbServ.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.1.0",
+    "mysql": "^2.18.1"
+  }
+}
