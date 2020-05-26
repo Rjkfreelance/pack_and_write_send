@@ -9,3 +9,4 @@
 ## Function writeToram(); เรียก  readRam(String sdatamqtt, int write_addr)
 
 ### *** ต่อไปที่จะทำคือ   เมื่อเก็บข้อมูลใน Ram จนเต็ม 32KB จะย้ายไปใน SD card /history จะมี Task อ่าน SDcard  แล้วส่ง 
+![img](https://iotfmx.com/imgtest/send_rt_task1.png)
